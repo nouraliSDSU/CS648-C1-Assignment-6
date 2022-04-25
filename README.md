@@ -1,6 +1,6 @@
 # Company Inventory Page
 
-Assignment 5.
+Assignment 6. Added Bootstrap
 
 ## Initial Step
 

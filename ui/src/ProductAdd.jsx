@@ -2,6 +2,9 @@ import React from 'react';
 
 /**
  * Product Add Form.
+ * Expects 'addProduct' function as a prop.
+ * Uses a controlled state for 'Price' input element for adding '$'.
+ * And for rest of the elements, it uses native 'forms' object from DOM.
  */
 export default class ProductAdd extends React.Component {
   constructor() {
